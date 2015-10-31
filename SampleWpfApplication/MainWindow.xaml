@@ -9,6 +9,7 @@
         <UniformGrid Rows="2" Columns="2">
             <Label Content="GoodBinding" />
             <Label Content="{Binding GoodBinding}" />
+            <Label Content="JustATest" />
             <Label Content="BadBinding" />
             <Label Content="{Binding BadBinding}" />
         </UniformGrid>
