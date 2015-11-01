@@ -10,6 +10,7 @@
             <Label Content="GoodBinding" />
             <Label Content="{Binding GoodBinding}" />
             <Label Content="JustATest" />
+            <Label Content="Yet another test" />
             <Label Content="BadBinding" />
             <Label Content="{Binding BadBinding}" />
         </UniformGrid>
